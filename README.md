@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sidd1092/Leet_Codes/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/sidd1092/Leet_Codes/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sidd1092/Leet_Codes/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/sidd1092/Leet_Codes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1720-crawler-log-folder](https://github.com/sidd1092/Leet_Codes/tree/master/1720-crawler-log-folder) |
 ## Binary Search
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sidd1092/Leet_Codes/tree/master/0268-missing-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/sidd1092/Leet_Codes/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/sidd1092/Leet_Codes/tree/master/0678-valid-parenthesis-string) |
+## Counting
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/sidd1092/Leet_Codes/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
