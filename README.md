@@ -29,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/sidd1092/Leet_Codes/tree/master/0678-valid-parenthesis-string) |
 | [1720-crawler-log-folder](https://github.com/sidd1092/Leet_Codes/tree/master/1720-crawler-log-folder) |
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/sidd1092/Leet_Codes/tree/master/0678-valid-parenthesis-string) |
 | [1720-crawler-log-folder](https://github.com/sidd1092/Leet_Codes/tree/master/1720-crawler-log-folder) |
 ## Hash Table
 |  |
@@ -47,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/sidd1092/Leet_Codes/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/sidd1092/Leet_Codes/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/sidd1092/Leet_Codes/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/sidd1092/Leet_Codes/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
