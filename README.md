@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sidd1092/Leet_Codes/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sidd1092/Leet_Codes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1720-crawler-log-folder](https://github.com/sidd1092/Leet_Codes/tree/master/1720-crawler-log-folder) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sidd1092/Leet_Codes/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Binary Search
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sidd1092/Leet_Codes/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/sidd1092/Leet_Codes/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sidd1092/Leet_Codes/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sidd1092/Leet_Codes/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Math
 |  |
 | ------- |
@@ -85,4 +87,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sidd1092/Leet_Codes/tree/master/0054-spiral-matrix) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sidd1092/Leet_Codes/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sidd1092/Leet_Codes/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
