@@ -1,7 +1,7 @@
 class Solution {
-    public int[] sortArray(int[] nums) {
-        sort(nums, 0, nums.length-1);
-        return nums;
+    public int[] sortArray(int[] arr) {
+        sort(arr, 0, arr.length-1);
+        return arr;
     }
     public static void sort(int arr[], int l, int r)
     {
