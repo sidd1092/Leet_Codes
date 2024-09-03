@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sidd1092/Leet_Codes/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/sidd1092/Leet_Codes/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/sidd1092/Leet_Codes/tree/master/0268-missing-number) |
+| [0682-baseball-game](https://github.com/sidd1092/Leet_Codes/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/sidd1092/Leet_Codes/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sidd1092/Leet_Codes/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/sidd1092/Leet_Codes/tree/master/0948-sort-an-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/sidd1092/Leet_Codes/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/sidd1092/Leet_Codes/tree/master/0682-baseball-game) |
 | [1720-crawler-log-folder](https://github.com/sidd1092/Leet_Codes/tree/master/1720-crawler-log-folder) |
 | [3447-clear-digits](https://github.com/sidd1092/Leet_Codes/tree/master/3447-clear-digits) |
 ## Hash Table
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sidd1092/Leet_Codes/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/sidd1092/Leet_Codes/tree/master/0682-baseball-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sidd1092/Leet_Codes/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3447-clear-digits](https://github.com/sidd1092/Leet_Codes/tree/master/3447-clear-digits) |
 ## Prefix Sum
