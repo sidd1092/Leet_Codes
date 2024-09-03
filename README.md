@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sidd1092/Leet_Codes/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/sidd1092/Leet_Codes/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sidd1092/Leet_Codes/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0948-sort-an-array](https://github.com/sidd1092/Leet_Codes/tree/master/0948-sort-an-array) |
 | [1039-find-the-town-judge](https://github.com/sidd1092/Leet_Codes/tree/master/1039-find-the-town-judge) |
 | [1293-three-consecutive-odds](https://github.com/sidd1092/Leet_Codes/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sidd1092/Leet_Codes/tree/master/1370-count-number-of-nice-subarrays) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/sidd1092/Leet_Codes/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/sidd1092/Leet_Codes/tree/master/0268-missing-number) |
+| [0948-sort-an-array](https://github.com/sidd1092/Leet_Codes/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,4 +106,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/sidd1092/Leet_Codes/tree/master/1370-count-number-of-nice-subarrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/sidd1092/Leet_Codes/tree/master/0948-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/sidd1092/Leet_Codes/tree/master/0948-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/sidd1092/Leet_Codes/tree/master/0948-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/sidd1092/Leet_Codes/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/sidd1092/Leet_Codes/tree/master/0948-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/sidd1092/Leet_Codes/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
