@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/sidd1092/Leet_Codes/tree/master/0008-string-to-integer-atoi) |
 | [0678-valid-parenthesis-string](https://github.com/sidd1092/Leet_Codes/tree/master/0678-valid-parenthesis-string) |
 | [1720-crawler-log-folder](https://github.com/sidd1092/Leet_Codes/tree/master/1720-crawler-log-folder) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/sidd1092/Leet_Codes/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/sidd1092/Leet_Codes/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3447-clear-digits](https://github.com/sidd1092/Leet_Codes/tree/master/3447-clear-digits) |
 ## Stack
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sidd1092/Leet_Codes/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/sidd1092/Leet_Codes/tree/master/0682-baseball-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sidd1092/Leet_Codes/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/sidd1092/Leet_Codes/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3447-clear-digits](https://github.com/sidd1092/Leet_Codes/tree/master/3447-clear-digits) |
 ## Prefix Sum
 |  |
