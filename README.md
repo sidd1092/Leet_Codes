@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sidd1092/Leet_Codes/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/sidd1092/Leet_Codes/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/sidd1092/Leet_Codes/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sidd1092/Leet_Codes/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/sidd1092/Leet_Codes/tree/master/0268-missing-number) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sidd1092/Leet_Codes/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sidd1092/Leet_Codes/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sidd1092/Leet_Codes/tree/master/0118-pascals-triangle) |
 | [0678-valid-parenthesis-string](https://github.com/sidd1092/Leet_Codes/tree/master/0678-valid-parenthesis-string) |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/sidd1092/Leet_Codes/tree/master/1013-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sidd1092/Leet_Codes/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
