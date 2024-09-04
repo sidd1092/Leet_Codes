@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sidd1092/Leet_Codes/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/sidd1092/Leet_Codes/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sidd1092/Leet_Codes/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/sidd1092/Leet_Codes/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sidd1092/Leet_Codes/tree/master/1370-count-number-of-nice-subarrays) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/sidd1092/Leet_Codes/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sidd1092/Leet_Codes/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sidd1092/Leet_Codes/tree/master/0118-pascals-triangle) |
 | [0678-valid-parenthesis-string](https://github.com/sidd1092/Leet_Codes/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sidd1092/Leet_Codes/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sidd1092/Leet_Codes/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
