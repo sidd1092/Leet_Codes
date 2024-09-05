@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/sidd1092/Leet_Codes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1720-crawler-log-folder](https://github.com/sidd1092/Leet_Codes/tree/master/1720-crawler-log-folder) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sidd1092/Leet_Codes/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3324-split-the-array](https://github.com/sidd1092/Leet_Codes/tree/master/3324-split-the-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/sidd1092/Leet_Codes/tree/master/1039-find-the-town-judge) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sidd1092/Leet_Codes/tree/master/1370-count-number-of-nice-subarrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sidd1092/Leet_Codes/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3324-split-the-array](https://github.com/sidd1092/Leet_Codes/tree/master/3324-split-the-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sidd1092/Leet_Codes/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3324-split-the-array](https://github.com/sidd1092/Leet_Codes/tree/master/3324-split-the-array) |
 ## Matrix
 |  |
 | ------- |
