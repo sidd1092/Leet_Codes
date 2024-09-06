@@ -12,19 +12,21 @@ class Solution {
         map.put('9',new char[]{'w','x','y','z'});
     }
     public List<String> letterCombinations(String digits) {
-        if(digits.isEmpty())
-            return new ArrayList<>(){};
         ans.clear();
+        if(digits.isEmpty()) {
+            List<String> a = new ArrayList<>();
+            return a;
+        }
         solve(digits,"");
         return ans;
     }
-    public static void solve(String input, String output)
-    {
-        if(input.length()==0){
+    public static void solve(String input , String output) {
+        if(input.isEmpty()){
             ans.add(output);
-            return;
+            return;    
         }
-        for(char ch: map.get(input.charAt(0)))
-            solve(input.substring(1),output+ch );
+        char ch = input.charAt(0);
+        for(char c : map.get(ch))
+            solve(input.substring(1),output+c);
     }
 }
