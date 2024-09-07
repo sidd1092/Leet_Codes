@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sidd1092/Leet_Codes/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/sidd1092/Leet_Codes/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sidd1092/Leet_Codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/sidd1092/Leet_Codes/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sidd1092/Leet_Codes/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/sidd1092/Leet_Codes/tree/master/0268-missing-number) |
 | [0682-baseball-game](https://github.com/sidd1092/Leet_Codes/tree/master/0682-baseball-game) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sidd1092/Leet_Codes/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/sidd1092/Leet_Codes/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/sidd1092/Leet_Codes/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/sidd1092/Leet_Codes/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sidd1092/Leet_Codes/tree/master/0062-unique-paths) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/sidd1092/Leet_Codes/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
