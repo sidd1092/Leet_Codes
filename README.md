@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/sidd1092/Leet_Codes/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/sidd1092/Leet_Codes/tree/master/1720-crawler-log-folder) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sidd1092/Leet_Codes/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2427-first-letter-to-appear-twice](https://github.com/sidd1092/Leet_Codes/tree/master/2427-first-letter-to-appear-twice) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/sidd1092/Leet_Codes/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3447-clear-digits](https://github.com/sidd1092/Leet_Codes/tree/master/3447-clear-digits) |
 ## Stack
@@ -79,11 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/sidd1092/Leet_Codes/tree/master/1039-find-the-town-judge) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sidd1092/Leet_Codes/tree/master/1370-count-number-of-nice-subarrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sidd1092/Leet_Codes/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/sidd1092/Leet_Codes/tree/master/2427-first-letter-to-appear-twice) |
 | [3324-split-the-array](https://github.com/sidd1092/Leet_Codes/tree/master/3324-split-the-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sidd1092/Leet_Codes/tree/master/0268-missing-number) |
+| [2427-first-letter-to-appear-twice](https://github.com/sidd1092/Leet_Codes/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sidd1092/Leet_Codes/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/sidd1092/Leet_Codes/tree/master/2427-first-letter-to-appear-twice) |
 | [3324-split-the-array](https://github.com/sidd1092/Leet_Codes/tree/master/3324-split-the-array) |
 ## Matrix
 |  |
