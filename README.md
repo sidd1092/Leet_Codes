@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sidd1092/Leet_Codes/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sidd1092/Leet_Codes/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/sidd1092/Leet_Codes/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sidd1092/Leet_Codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/sidd1092/Leet_Codes/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/sidd1092/Leet_Codes/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/sidd1092/Leet_Codes/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sidd1092/Leet_Codes/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sidd1092/Leet_Codes/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/sidd1092/Leet_Codes/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sidd1092/Leet_Codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/sidd1092/Leet_Codes/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sidd1092/Leet_Codes/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sidd1092/Leet_Codes/tree/master/1370-count-number-of-nice-subarrays) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sidd1092/Leet_Codes/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/sidd1092/Leet_Codes/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/sidd1092/Leet_Codes/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sidd1092/Leet_Codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/sidd1092/Leet_Codes/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
