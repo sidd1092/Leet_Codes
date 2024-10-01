@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sidd1092/Leet_Codes/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/sidd1092/Leet_Codes/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sidd1092/Leet_Codes/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0917-boats-to-save-people](https://github.com/sidd1092/Leet_Codes/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/sidd1092/Leet_Codes/tree/master/0948-sort-an-array) |
 | [1039-find-the-town-judge](https://github.com/sidd1092/Leet_Codes/tree/master/1039-find-the-town-judge) |
 | [1293-three-consecutive-odds](https://github.com/sidd1092/Leet_Codes/tree/master/1293-three-consecutive-odds) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sidd1092/Leet_Codes/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/sidd1092/Leet_Codes/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sidd1092/Leet_Codes/tree/master/0628-maximum-product-of-three-numbers) |
+| [0917-boats-to-save-people](https://github.com/sidd1092/Leet_Codes/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/sidd1092/Leet_Codes/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/sidd1092/Leet_Codes/tree/master/0678-valid-parenthesis-string) |
+| [0917-boats-to-save-people](https://github.com/sidd1092/Leet_Codes/tree/master/0917-boats-to-save-people) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/sidd1092/Leet_Codes/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Counting
 |  |
@@ -192,4 +195,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sidd1092/Leet_Codes/tree/master/0088-merge-sorted-array) |
 | [0443-string-compression](https://github.com/sidd1092/Leet_Codes/tree/master/0443-string-compression) |
+| [0917-boats-to-save-people](https://github.com/sidd1092/Leet_Codes/tree/master/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->
