@@ -196,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sidd1092/Leet_Codes/tree/master/0088-merge-sorted-array) |
 | [0443-string-compression](https://github.com/sidd1092/Leet_Codes/tree/master/0443-string-compression) |
 | [0917-boats-to-save-people](https://github.com/sidd1092/Leet_Codes/tree/master/0917-boats-to-save-people) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/sidd1092/Leet_Codes/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
