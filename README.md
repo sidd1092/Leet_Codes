@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/sidd1092/Leet_Codes/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/sidd1092/Leet_Codes/tree/master/0948-sort-an-array) |
 | [1039-find-the-town-judge](https://github.com/sidd1092/Leet_Codes/tree/master/1039-find-the-town-judge) |
+| [1046-max-consecutive-ones-iii](https://github.com/sidd1092/Leet_Codes/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/sidd1092/Leet_Codes/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sidd1092/Leet_Codes/tree/master/1370-count-number-of-nice-subarrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sidd1092/Leet_Codes/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sidd1092/Leet_Codes/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/sidd1092/Leet_Codes/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sidd1092/Leet_Codes/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/sidd1092/Leet_Codes/tree/master/1046-max-consecutive-ones-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sidd1092/Leet_Codes/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Math
 |  |
@@ -143,10 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/sidd1092/Leet_Codes/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/sidd1092/Leet_Codes/tree/master/1046-max-consecutive-ones-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sidd1092/Leet_Codes/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sliding Window
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/sidd1092/Leet_Codes/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sidd1092/Leet_Codes/tree/master/1370-count-number-of-nice-subarrays) |
 ## Divide and Conquer
 |  |
