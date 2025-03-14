@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sidd1092/Leet_Codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sidd1092/Leet_Codes/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sidd1092/Leet_Codes/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/sidd1092/Leet_Codes/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/sidd1092/Leet_Codes/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sidd1092/Leet_Codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/sidd1092/Leet_Codes/tree/master/0682-baseball-game) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sidd1092/Leet_Codes/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sidd1092/Leet_Codes/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sidd1092/Leet_Codes/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/sidd1092/Leet_Codes/tree/master/0198-house-robber) |
 | [0678-valid-parenthesis-string](https://github.com/sidd1092/Leet_Codes/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/sidd1092/Leet_Codes/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/sidd1092/Leet_Codes/tree/master/1013-fibonacci-number) |
